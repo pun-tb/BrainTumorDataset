@@ -1,0 +1,6 @@
+BrainTumorDataset
+lightning_logs
+.DS_Store
+FCN.ipynb
+list.csv
+train_image_list.csv
